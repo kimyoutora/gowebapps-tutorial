@@ -1,1 +1,1 @@
-web: deployment
+web: simple-go-server
