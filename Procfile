@@ -1,1 +1,1 @@
-web: simple-go-server
+web: ./simple-go-server -port $PORT
